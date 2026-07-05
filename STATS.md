@@ -3,12 +3,12 @@
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 542 | 1 633 | 7 175 |
-| APNIC | Asia Pacific | 80 | 57 842 | 16 954 | 74 796 |
+| APNIC | Asia Pacific | 80 | 57 843 | 16 954 | 74 797 |
 | ARIN | North America | 61 | 76 665 | 11 326 | 87 991 |
-| LACNIC | Latin America & Caribbean | 30 | 20 260 | 13 451 | 33 711 |
+| LACNIC | Latin America & Caribbean | 30 | 20 260 | 13 455 | 33 715 |
 | RIPE | Europe, Middle East & Central Asia | 124 | 101 378 | 26 713 | 128 091 |
 | | | | | | |
-| **Total** | | **238** | **261 687** | **70 077** | **331 764** |
+| **Total** | | **238** | **261 688** | **70 081** | **331 769** |
 
 ## Prefixes by Country
 
@@ -43,7 +43,7 @@
 | Bolivia (BO) | 102 | 56 | 158 |
 | Bosnia & Herzegovina (BA) | 159 | 38 | 197 |
 | Botswana (BW) | 56 | 20 | 76 |
-| Brazil (BR) | 4 920 | 8 932 | 13 852 |
+| Brazil (BR) | 4 920 | 8 935 | 13 855 |
 | British Indian Ocean Territory (IO) | 2 | 1 | 3 |
 | British Virgin Islands (VG) | 214 | 48 | 262 |
 | Brunei (BN) | 35 | 9 | 44 |
@@ -75,7 +75,7 @@
 | Denmark (DK) | 1 284 | 414 | 1 698 |
 | Djibouti (DJ) | 8 | 3 | 11 |
 | Dominica (DM) | 13 | 6 | 19 |
-| Dominican Republic (DO) | 140 | 209 | 349 |
+| Dominican Republic (DO) | 140 | 210 | 350 |
 | Ecuador (EC) | 313 | 274 | 587 |
 | Egypt (EG) | 179 | 20 | 199 |
 | El Salvador (SV) | 75 | 45 | 120 |
@@ -112,7 +112,7 @@
 | Hong Kong SAR China (HK) | 3 047 | 903 | 3 950 |
 | Hungary (HU) | 656 | 170 | 826 |
 | Iceland (IS) | 159 | 73 | 232 |
-| India (IN) | 7 158 | 2 814 | 9 972 |
+| India (IN) | 7 159 | 2 814 | 9 973 |
 | Indonesia (ID) | 4 679 | 2 657 | 7 336 |
 | Iran (IR) | 1 730 | 571 | 2 301 |
 | Iraq (IQ) | 283 | 116 | 399 |
@@ -253,4 +253,4 @@
 | Zambia (ZM) | 40 | 13 | 53 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **177 251** | **68 856** | **246 107** |
+| **Total** | **177 252** | **68 860** | **246 112** |
