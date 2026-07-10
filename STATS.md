@@ -5,10 +5,10 @@
 | AFRINIC | Africa | 56 | 5 546 | 1 633 | 7 179 |
 | APNIC | Asia Pacific | 80 | 57 856 | 16 961 | 74 817 |
 | ARIN | North America | 61 | 76 691 | 11 348 | 88 039 |
-| LACNIC | Latin America & Caribbean | 30 | 20 264 | 13 452 | 33 716 |
+| LACNIC | Latin America & Caribbean | 30 | 20 264 | 13 456 | 33 720 |
 | RIPE | Europe, Middle East & Central Asia | 124 | 101 444 | 26 718 | 128 162 |
 | | | | | | |
-| **Total** | | **238** | **261 801** | **70 112** | **331 913** |
+| **Total** | | **238** | **261 801** | **70 116** | **331 917** |
 
 ## Prefixes by Country
 
@@ -60,7 +60,7 @@
 | Chad (TD) | 20 | 5 | 25 |
 | Chile (CL) | 642 | 330 | 972 |
 | China (CN) | 5 503 | 2 027 | 7 530 |
-| Colombia (CO) | 518 | 727 | 1 245 |
+| Colombia (CO) | 518 | 729 | 1 247 |
 | Comoros (KM) | 6 | 2 | 8 |
 | Congo - Brazzaville (CG) | 22 | 10 | 32 |
 | Congo - Kinshasa (CD) | 83 | 23 | 106 |
@@ -182,7 +182,7 @@
 | Panama (PA) | 159 | 83 | 242 |
 | Papua New Guinea (PG) | 63 | 25 | 88 |
 | Paraguay (PY) | 142 | 106 | 248 |
-| Peru (PE) | 232 | 228 | 460 |
+| Peru (PE) | 232 | 229 | 461 |
 | Philippines (PH) | 820 | 364 | 1 184 |
 | Poland (PL) | 3 945 | 971 | 4 916 |
 | Portugal (PT) | 404 | 118 | 522 |
@@ -242,7 +242,7 @@
 | United Arab Emirates (AE) | 1 189 | 591 | 1 780 |
 | United Kingdom (GB) | 8 196 | 2 034 | 10 230 |
 | United States (US) | 29 261 | 10 540 | 39 801 |
-| Uruguay (UY) | 58 | 40 | 98 |
+| Uruguay (UY) | 58 | 41 | 99 |
 | Uzbekistan (UZ) | 174 | 48 | 222 |
 | Vanuatu (VU) | 20 | 11 | 31 |
 | Vatican City (VA) | 4 | 3 | 7 |
@@ -253,4 +253,4 @@
 | Zambia (ZM) | 40 | 13 | 53 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **177 278** | **68 890** | **246 168** |
+| **Total** | **177 278** | **68 894** | **246 172** |
