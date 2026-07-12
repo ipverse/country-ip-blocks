@@ -2,13 +2,13 @@
 
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
-| AFRINIC | Africa | 56 | 5 546 | 1 633 | 7 179 |
+| AFRINIC | Africa | 56 | 5 547 | 1 633 | 7 180 |
 | APNIC | Asia Pacific | 80 | 57 857 | 16 966 | 74 823 |
-| ARIN | North America | 61 | 76 700 | 11 350 | 88 050 |
+| ARIN | North America | 61 | 76 708 | 11 353 | 88 061 |
 | LACNIC | Latin America & Caribbean | 30 | 20 264 | 13 456 | 33 720 |
 | RIPE | Europe, Middle East & Central Asia | 124 | 101 454 | 26 719 | 128 173 |
 | | | | | | |
-| **Total** | | **238** | **261 821** | **70 124** | **331 945** |
+| **Total** | | **238** | **261 830** | **70 127** | **331 957** |
 
 ## Prefixes by Country
 
@@ -77,7 +77,7 @@
 | Dominica (DM) | 13 | 6 | 19 |
 | Dominican Republic (DO) | 140 | 209 | 349 |
 | Ecuador (EC) | 313 | 274 | 587 |
-| Egypt (EG) | 179 | 20 | 199 |
+| Egypt (EG) | 180 | 20 | 200 |
 | El Salvador (SV) | 75 | 45 | 120 |
 | Equatorial Guinea (GQ) | 11 | 3 | 14 |
 | Eritrea (ER) | 1 | 0 | 1 |
@@ -241,7 +241,7 @@
 | Ukraine (UA) | 2 657 | 619 | 3 276 |
 | United Arab Emirates (AE) | 1 189 | 591 | 1 780 |
 | United Kingdom (GB) | 8 195 | 2 034 | 10 229 |
-| United States (US) | 29 272 | 10 541 | 39 813 |
+| United States (US) | 29 271 | 10 544 | 39 815 |
 | Uruguay (UY) | 58 | 41 | 99 |
 | Uzbekistan (UZ) | 174 | 48 | 222 |
 | Vanuatu (VU) | 20 | 11 | 31 |
@@ -253,4 +253,4 @@
 | Zambia (ZM) | 40 | 13 | 53 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **177 292** | **68 898** | **246 190** |
+| **Total** | **177 292** | **68 901** | **246 193** |
