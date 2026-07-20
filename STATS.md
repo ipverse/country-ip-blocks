@@ -3,12 +3,12 @@
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 548 | 1 637 | 7 185 |
-| APNIC | Asia Pacific | 80 | 57 867 | 16 980 | 74 847 |
+| APNIC | Asia Pacific | 80 | 57 867 | 16 982 | 74 849 |
 | ARIN | North America | 61 | 76 693 | 11 352 | 88 045 |
 | LACNIC | Latin America & Caribbean | 30 | 20 276 | 13 459 | 33 735 |
 | RIPE | Europe, Middle East & Central Asia | 123 | 101 515 | 26 729 | 128 244 |
 | | | | | | |
-| **Total** | | **238** | **261 899** | **70 157** | **332 056** |
+| **Total** | | **238** | **261 899** | **70 159** | **332 058** |
 
 ## Prefixes by Country
 
@@ -112,7 +112,7 @@
 | Hong Kong SAR China (HK) | 3 055 | 904 | 3 959 |
 | Hungary (HU) | 656 | 170 | 826 |
 | Iceland (IS) | 159 | 73 | 232 |
-| India (IN) | 7 163 | 2 821 | 9 984 |
+| India (IN) | 7 163 | 2 822 | 9 985 |
 | Indonesia (ID) | 4 684 | 2 666 | 7 350 |
 | Iran (IR) | 1 734 | 573 | 2 307 |
 | Iraq (IQ) | 283 | 116 | 399 |
@@ -162,7 +162,7 @@
 | Myanmar (Burma) (MM) | 231 | 128 | 359 |
 | Namibia (NA) | 38 | 9 | 47 |
 | Nauru (NR) | 7 | 2 | 9 |
-| Nepal (NP) | 268 | 163 | 431 |
+| Nepal (NP) | 268 | 164 | 432 |
 | Netherlands (NL) | 5 671 | 1 930 | 7 601 |
 | New Caledonia (NC) | 42 | 13 | 55 |
 | New Zealand (NZ) | 1 272 | 422 | 1 694 |
@@ -253,4 +253,4 @@
 | Zambia (ZM) | 40 | 13 | 53 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **177 372** | **68 930** | **246 302** |
+| **Total** | **177 372** | **68 932** | **246 304** |
