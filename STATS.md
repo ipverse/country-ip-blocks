@@ -3,12 +3,12 @@
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 555 | 1 639 | 7 194 |
-| APNIC | Asia Pacific | 80 | 57 884 | 16 995 | 74 879 |
-| ARIN | North America | 61 | 76 735 | 11 370 | 88 105 |
-| LACNIC | Latin America & Caribbean | 30 | 20 300 | 13 470 | 33 770 |
+| APNIC | Asia Pacific | 80 | 57 885 | 16 995 | 74 880 |
+| ARIN | North America | 61 | 76 740 | 11 370 | 88 110 |
+| LACNIC | Latin America & Caribbean | 30 | 20 322 | 13 471 | 33 793 |
 | RIPE | Europe, Middle East & Central Asia | 124 | 101 546 | 26 739 | 128 285 |
 | | | | | | |
-| **Total** | | **238** | **262 020** | **70 213** | **332 233** |
+| **Total** | | **238** | **262 048** | **70 214** | **332 262** |
 
 ## Prefixes by Country
 
@@ -60,7 +60,7 @@
 | Chad (TD) | 20 | 5 | 25 |
 | Chile (CL) | 640 | 331 | 971 |
 | China (CN) | 5 508 | 2 030 | 7 538 |
-| Colombia (CO) | 518 | 728 | 1 246 |
+| Colombia (CO) | 518 | 729 | 1 247 |
 | Comoros (KM) | 6 | 2 | 8 |
 | Congo - Brazzaville (CG) | 22 | 10 | 32 |
 | Congo - Kinshasa (CD) | 83 | 23 | 106 |
@@ -241,7 +241,7 @@
 | Ukraine (UA) | 2 655 | 621 | 3 276 |
 | United Arab Emirates (AE) | 1 188 | 593 | 1 781 |
 | United Kingdom (GB) | 8 194 | 2 032 | 10 226 |
-| United States (US) | 29 325 | 10 559 | 39 884 |
+| United States (US) | 29 330 | 10 559 | 39 889 |
 | Uruguay (UY) | 58 | 41 | 99 |
 | Uzbekistan (UZ) | 174 | 48 | 222 |
 | Vanuatu (VU) | 20 | 11 | 31 |
@@ -253,4 +253,4 @@
 | Zambia (ZM) | 40 | 13 | 53 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **177 453** | **68 983** | **246 436** |
+| **Total** | **177 458** | **68 984** | **246 442** |
