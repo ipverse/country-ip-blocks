@@ -3,12 +3,12 @@
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 555 | 1 639 | 7 194 |
-| APNIC | Asia Pacific | 80 | 57 885 | 16 995 | 74 880 |
+| APNIC | Asia Pacific | 80 | 57 886 | 16 996 | 74 882 |
 | ARIN | North America | 61 | 76 740 | 11 370 | 88 110 |
 | LACNIC | Latin America & Caribbean | 30 | 20 322 | 13 471 | 33 793 |
 | RIPE | Europe, Middle East & Central Asia | 124 | 101 546 | 26 739 | 128 285 |
 | | | | | | |
-| **Total** | | **238** | **262 048** | **70 214** | **332 262** |
+| **Total** | | **238** | **262 049** | **70 215** | **332 264** |
 
 ## Prefixes by Country
 
@@ -27,7 +27,7 @@
 | Argentina (AR) | 1 602 | 1 146 | 2 748 |
 | Armenia (AM) | 189 | 53 | 242 |
 | Aruba (AW) | 12 | 3 | 15 |
-| Australia (AU) | 5 654 | 1 652 | 7 306 |
+| Australia (AU) | 5 655 | 1 653 | 7 308 |
 | Austria (AT) | 1 904 | 595 | 2 499 |
 | Azerbaijan (AZ) | 185 | 75 | 260 |
 | Bahamas (BS) | 26 | 6 | 32 |
@@ -253,4 +253,4 @@
 | Zambia (ZM) | 40 | 13 | 53 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **177 458** | **68 984** | **246 442** |
+| **Total** | **177 459** | **68 985** | **246 444** |
