@@ -3,12 +3,12 @@
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 555 | 1 639 | 7 194 |
-| APNIC | Asia Pacific | 80 | 57 886 | 16 996 | 74 882 |
+| APNIC | Asia Pacific | 80 | 57 887 | 16 995 | 74 882 |
 | ARIN | North America | 61 | 76 740 | 11 370 | 88 110 |
 | LACNIC | Latin America & Caribbean | 30 | 20 322 | 13 471 | 33 793 |
-| RIPE | Europe, Middle East & Central Asia | 124 | 101 546 | 26 739 | 128 285 |
+| RIPE | Europe, Middle East & Central Asia | 124 | 101 557 | 26 741 | 128 298 |
 | | | | | | |
-| **Total** | | **238** | **262 049** | **70 215** | **332 264** |
+| **Total** | | **238** | **262 061** | **70 216** | **332 277** |
 
 ## Prefixes by Country
 
@@ -32,7 +32,7 @@
 | Azerbaijan (AZ) | 185 | 75 | 260 |
 | Bahamas (BS) | 26 | 6 | 32 |
 | Bahrain (BH) | 56 | 15 | 71 |
-| Bangladesh (BD) | 2 131 | 1 650 | 3 781 |
+| Bangladesh (BD) | 2 131 | 1 649 | 3 780 |
 | Barbados (BB) | 30 | 4 | 34 |
 | Belarus (BY) | 105 | 32 | 137 |
 | Belgium (BE) | 917 | 326 | 1 243 |
@@ -59,7 +59,7 @@
 | Central African Republic (CF) | 5 | 0 | 5 |
 | Chad (TD) | 20 | 5 | 25 |
 | Chile (CL) | 640 | 331 | 971 |
-| China (CN) | 5 508 | 2 030 | 7 538 |
+| China (CN) | 5 509 | 2 030 | 7 539 |
 | Colombia (CO) | 518 | 729 | 1 247 |
 | Comoros (KM) | 6 | 2 | 8 |
 | Congo - Brazzaville (CG) | 22 | 10 | 32 |
@@ -94,7 +94,7 @@
 | Gabon (GA) | 25 | 8 | 33 |
 | Gambia (GM) | 24 | 10 | 34 |
 | Georgia (GE) | 316 | 80 | 396 |
-| Germany (DE) | 8 704 | 3 068 | 11 772 |
+| Germany (DE) | 8 705 | 3 070 | 11 775 |
 | Ghana (GH) | 150 | 54 | 204 |
 | Gibraltar (GI) | 74 | 13 | 87 |
 | Greece (GR) | 442 | 109 | 551 |
@@ -109,11 +109,11 @@
 | Guyana (GY) | 14 | 9 | 23 |
 | Haiti (HT) | 21 | 10 | 31 |
 | Honduras (HN) | 187 | 116 | 303 |
-| Hong Kong SAR China (HK) | 3 055 | 904 | 3 959 |
+| Hong Kong SAR China (HK) | 3 054 | 904 | 3 958 |
 | Hungary (HU) | 656 | 170 | 826 |
 | Iceland (IS) | 160 | 73 | 233 |
 | India (IN) | 7 164 | 2 823 | 9 987 |
-| Indonesia (ID) | 4 691 | 2 676 | 7 367 |
+| Indonesia (ID) | 4 690 | 2 676 | 7 366 |
 | Iran (IR) | 1 736 | 569 | 2 305 |
 | Iraq (IQ) | 283 | 116 | 399 |
 | Ireland (IE) | 722 | 213 | 935 |
@@ -189,8 +189,8 @@
 | Puerto Rico (PR) | 210 | 72 | 282 |
 | Qatar (QA) | 47 | 21 | 68 |
 | Réunion (RE) | 24 | 6 | 30 |
-| Romania (RO) | 2 429 | 273 | 2 702 |
-| Russia (RU) | 8 630 | 2 176 | 10 806 |
+| Romania (RO) | 2 429 | 271 | 2 700 |
+| Russia (RU) | 8 630 | 2 177 | 10 807 |
 | Rwanda (RW) | 33 | 21 | 54 |
 | Samoa (WS) | 16 | 8 | 24 |
 | San Marino (SM) | 24 | 14 | 38 |
@@ -200,7 +200,7 @@
 | Serbia (RS) | 385 | 90 | 475 |
 | Seychelles (SC) | 801 | 726 | 1 527 |
 | Sierra Leone (SL) | 30 | 9 | 39 |
-| Singapore (SG) | 1 734 | 469 | 2 203 |
+| Singapore (SG) | 1 735 | 469 | 2 204 |
 | Sint Maarten (SX) | 10 | 7 | 17 |
 | Slovakia (SK) | 414 | 148 | 562 |
 | Slovenia (SI) | 534 | 148 | 682 |
@@ -209,7 +209,7 @@
 | South Africa (ZA) | 1 579 | 537 | 2 116 |
 | South Korea (KR) | 999 | 142 | 1 141 |
 | South Sudan (SS) | 29 | 8 | 37 |
-| Spain (ES) | 3 416 | 885 | 4 301 |
+| Spain (ES) | 3 424 | 885 | 4 309 |
 | Sri Lanka (LK) | 68 | 24 | 92 |
 | St. Barthélemy (BL) | 3 | 3 | 6 |
 | St. Kitts & Nevis (KN) | 19 | 4 | 23 |
@@ -221,8 +221,8 @@
 | Suriname (SR) | 11 | 5 | 16 |
 | Sweden (SE) | 1 991 | 853 | 2 844 |
 | Switzerland (CH) | 2 673 | 870 | 3 543 |
-| Syria (SY) | 196 | 32 | 228 |
-| Taiwan (TW) | 727 | 318 | 1 045 |
+| Syria (SY) | 196 | 33 | 229 |
+| Taiwan (TW) | 728 | 319 | 1 047 |
 | Tajikistan (TJ) | 59 | 23 | 82 |
 | Tanzania (TZ) | 195 | 76 | 271 |
 | Thailand (TH) | 666 | 215 | 881 |
@@ -241,7 +241,7 @@
 | Ukraine (UA) | 2 655 | 621 | 3 276 |
 | United Arab Emirates (AE) | 1 188 | 593 | 1 781 |
 | United Kingdom (GB) | 8 194 | 2 032 | 10 226 |
-| United States (US) | 29 330 | 10 559 | 39 889 |
+| United States (US) | 29 330 | 10 558 | 39 888 |
 | Uruguay (UY) | 58 | 41 | 99 |
 | Uzbekistan (UZ) | 174 | 48 | 222 |
 | Vanuatu (VU) | 20 | 11 | 31 |
@@ -253,4 +253,4 @@
 | Zambia (ZM) | 40 | 13 | 53 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **177 459** | **68 985** | **246 444** |
+| **Total** | **177 469** | **68 986** | **246 455** |
