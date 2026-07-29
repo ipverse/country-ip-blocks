@@ -3,6 +3,7 @@
 # Delegation status: Allocated || Assigned
 # Export mode: Aggregated
 #
+2.152.33.0/24
 24.152.56.0/24
 24.152.58.0/23
 37.10.70.0/24
