@@ -4,11 +4,11 @@
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 566 | 1 646 | 7 212 |
 | APNIC | Asia Pacific | 80 | 57 970 | 17 039 | 75 009 |
-| ARIN | North America | 61 | 76 818 | 11 399 | 88 217 |
-| LACNIC | Latin America & Caribbean | 30 | 20 336 | 13 487 | 33 823 |
+| ARIN | North America | 61 | 76 825 | 11 401 | 88 226 |
+| LACNIC | Latin America & Caribbean | 30 | 20 336 | 13 493 | 33 829 |
 | RIPE | Europe, Middle East & Central Asia | 124 | 101 552 | 26 754 | 128 306 |
 | | | | | | |
-| **Total** | | **238** | **262 242** | **70 325** | **332 567** |
+| **Total** | | **238** | **262 249** | **70 333** | **332 582** |
 
 ## Prefixes by Country
 
@@ -43,7 +43,7 @@
 | Bolivia (BO) | 102 | 57 | 159 |
 | Bosnia & Herzegovina (BA) | 159 | 38 | 197 |
 | Botswana (BW) | 57 | 21 | 78 |
-| Brazil (BR) | 4 926 | 8 941 | 13 867 |
+| Brazil (BR) | 4 926 | 8 944 | 13 870 |
 | British Indian Ocean Territory (IO) | 2 | 1 | 3 |
 | British Virgin Islands (VG) | 214 | 48 | 262 |
 | Brunei (BN) | 35 | 9 | 44 |
@@ -52,15 +52,15 @@
 | Burundi (BI) | 12 | 6 | 18 |
 | Cambodia (KH) | 271 | 92 | 363 |
 | Cameroon (CM) | 59 | 23 | 82 |
-| Canada (CA) | 6 331 | 1 136 | 7 467 |
+| Canada (CA) | 6 332 | 1 136 | 7 468 |
 | Cape Verde (CV) | 23 | 6 | 29 |
 | Caribbean Netherlands (BQ) | 12 | 6 | 18 |
 | Cayman Islands (KY) | 37 | 5 | 42 |
 | Central African Republic (CF) | 5 | 0 | 5 |
 | Chad (TD) | 20 | 5 | 25 |
-| Chile (CL) | 640 | 332 | 972 |
+| Chile (CL) | 640 | 333 | 973 |
 | China (CN) | 5 510 | 2 030 | 7 540 |
-| Colombia (CO) | 520 | 729 | 1 249 |
+| Colombia (CO) | 520 | 731 | 1 251 |
 | Comoros (KM) | 6 | 2 | 8 |
 | Congo - Brazzaville (CG) | 22 | 10 | 32 |
 | Congo - Kinshasa (CD) | 83 | 23 | 106 |
@@ -241,7 +241,7 @@
 | Ukraine (UA) | 2 657 | 621 | 3 278 |
 | United Arab Emirates (AE) | 1 188 | 593 | 1 781 |
 | United Kingdom (GB) | 8 190 | 2 038 | 10 228 |
-| United States (US) | 29 341 | 10 585 | 39 926 |
+| United States (US) | 29 342 | 10 587 | 39 929 |
 | Uruguay (UY) | 58 | 41 | 99 |
 | Uzbekistan (UZ) | 174 | 48 | 222 |
 | Vanuatu (VU) | 20 | 11 | 31 |
@@ -253,4 +253,4 @@
 | Zambia (ZM) | 40 | 13 | 53 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **177 604** | **69 093** | **246 697** |
+| **Total** | **177 606** | **69 101** | **246 707** |
