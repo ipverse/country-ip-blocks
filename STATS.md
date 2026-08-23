@@ -3,12 +3,12 @@
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 579 | 1 651 | 7 230 |
-| APNIC | Asia Pacific | 80 | 58 030 | 17 081 | 75 111 |
-| ARIN | North America | 60 | 76 817 | 11 415 | 88 232 |
-| LACNIC | Latin America & Caribbean | 30 | 20 348 | 13 499 | 33 847 |
+| APNIC | Asia Pacific | 80 | 58 030 | 17 083 | 75 113 |
+| ARIN | North America | 60 | 76 819 | 11 417 | 88 236 |
+| LACNIC | Latin America & Caribbean | 30 | 20 352 | 13 496 | 33 848 |
 | RIPE | Europe, Middle East & Central Asia | 124 | 101 697 | 26 771 | 128 468 |
 | | | | | | |
-| **Total** | | **238** | **262 471** | **70 417** | **332 888** |
+| **Total** | | **238** | **262 477** | **70 418** | **332 895** |
 
 ## Prefixes by Country
 
@@ -43,7 +43,7 @@
 | Bolivia (BO) | 102 | 57 | 159 |
 | Bosnia & Herzegovina (BA) | 159 | 38 | 197 |
 | Botswana (BW) | 57 | 21 | 78 |
-| Brazil (BR) | 4 925 | 8 926 | 13 851 |
+| Brazil (BR) | 4 926 | 8 923 | 13 849 |
 | British Indian Ocean Territory (IO) | 2 | 1 | 3 |
 | British Virgin Islands (VG) | 214 | 48 | 262 |
 | Brunei (BN) | 35 | 9 | 44 |
@@ -241,16 +241,16 @@
 | Ukraine (UA) | 2 660 | 621 | 3 281 |
 | United Arab Emirates (AE) | 1 205 | 593 | 1 798 |
 | United Kingdom (GB) | 8 210 | 2 041 | 10 251 |
-| United States (US) | 29 403 | 10 597 | 40 000 |
+| United States (US) | 29 403 | 10 599 | 40 002 |
 | Uruguay (UY) | 58 | 41 | 99 |
 | Uzbekistan (UZ) | 174 | 49 | 223 |
 | Vanuatu (VU) | 20 | 11 | 31 |
 | Vatican City (VA) | 4 | 3 | 7 |
 | Venezuela (VE) | 217 | 232 | 449 |
-| Vietnam (VN) | 1 264 | 949 | 2 213 |
+| Vietnam (VN) | 1 264 | 951 | 2 215 |
 | Wallis & Futuna (WF) | 3 | 1 | 4 |
 | Yemen (YE) | 29 | 6 | 35 |
 | Zambia (ZM) | 40 | 13 | 53 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **177 886** | **69 173** | **247 059** |
+| **Total** | **177 887** | **69 174** | **247 061** |
