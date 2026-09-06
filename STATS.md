@@ -3,12 +3,12 @@
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 591 | 1 657 | 7 248 |
-| APNIC | Asia Pacific | 80 | 58 091 | 17 103 | 75 194 |
-| ARIN | North America | 61 | 76 810 | 11 452 | 88 262 |
-| LACNIC | Latin America & Caribbean | 30 | 20 388 | 13 530 | 33 918 |
+| APNIC | Asia Pacific | 80 | 58 092 | 17 103 | 75 195 |
+| ARIN | North America | 61 | 76 813 | 11 453 | 88 266 |
+| LACNIC | Latin America & Caribbean | 30 | 20 388 | 13 531 | 33 919 |
 | RIPE | Europe, Middle East & Central Asia | 124 | 101 817 | 26 789 | 128 606 |
 | | | | | | |
-| **Total** | | **238** | **262 697** | **70 531** | **333 228** |
+| **Total** | | **238** | **262 701** | **70 533** | **333 234** |
 
 ## Prefixes by Country
 
@@ -52,7 +52,7 @@
 | Burundi (BI) | 12 | 6 | 18 |
 | Cambodia (KH) | 271 | 91 | 362 |
 | Cameroon (CM) | 59 | 23 | 82 |
-| Canada (CA) | 6 359 | 1 140 | 7 499 |
+| Canada (CA) | 6 360 | 1 140 | 7 500 |
 | Cape Verde (CV) | 23 | 6 | 29 |
 | Caribbean Netherlands (BQ) | 12 | 6 | 18 |
 | Cayman Islands (KY) | 37 | 5 | 42 |
@@ -150,7 +150,7 @@
 | Mauritania (MR) | 18 | 6 | 24 |
 | Mauritius (MU) | 118 | 35 | 153 |
 | Mayotte (YT) | 1 | 0 | 1 |
-| Mexico (MX) | 805 | 211 | 1 016 |
+| Mexico (MX) | 805 | 212 | 1 017 |
 | Micronesia (FM) | 5 | 2 | 7 |
 | Moldova (MD) | 412 | 217 | 629 |
 | Monaco (MC) | 28 | 6 | 34 |
@@ -241,16 +241,16 @@
 | Ukraine (UA) | 2 660 | 620 | 3 280 |
 | United Arab Emirates (AE) | 1 207 | 593 | 1 800 |
 | United Kingdom (GB) | 8 235 | 2 045 | 10 280 |
-| United States (US) | 29 544 | 10 633 | 40 177 |
+| United States (US) | 29 546 | 10 634 | 40 180 |
 | Uruguay (UY) | 58 | 41 | 99 |
 | Uzbekistan (UZ) | 174 | 49 | 223 |
 | Vanuatu (VU) | 20 | 11 | 31 |
 | Vatican City (VA) | 4 | 3 | 7 |
 | Venezuela (VE) | 218 | 233 | 451 |
-| Vietnam (VN) | 1 266 | 952 | 2 218 |
+| Vietnam (VN) | 1 267 | 952 | 2 219 |
 | Wallis & Futuna (WF) | 3 | 1 | 4 |
 | Yemen (YE) | 29 | 6 | 35 |
 | Zambia (ZM) | 40 | 13 | 53 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **178 184** | **69 280** | **247 464** |
+| **Total** | **178 188** | **69 282** | **247 470** |
