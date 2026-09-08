@@ -3,6 +3,7 @@
 # Delegation status: Allocated || Assigned
 # Export mode: Aggregated
 #
+2001:678:e3c::/48
 2001:7f8:166::/48
 2a00:4360::/32
 2a00:8ac0::/32
