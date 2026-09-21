@@ -3,12 +3,12 @@
 | RIR | Region | Countries | IPv4 | IPv6 | Total |
 |:----|:-------|----------:|-----:|-----:|------:|
 | AFRINIC | Africa | 56 | 5 609 | 1 667 | 7 276 |
-| APNIC | Asia Pacific | 80 | 58 180 | 17 167 | 75 347 |
+| APNIC | Asia Pacific | 80 | 58 180 | 17 168 | 75 348 |
 | ARIN | North America | 61 | 76 763 | 11 451 | 88 214 |
-| LACNIC | Latin America & Caribbean | 30 | 20 407 | 13 543 | 33 950 |
+| LACNIC | Latin America & Caribbean | 30 | 20 408 | 13 544 | 33 952 |
 | RIPE | Europe, Middle East & Central Asia | 127 | 101 975 | 26 814 | 128 789 |
 | | | | | | |
-| **Total** | | **238** | **262 934** | **70 642** | **333 576** |
+| **Total** | | **238** | **262 935** | **70 644** | **333 579** |
 
 ## Prefixes by Country
 
@@ -43,7 +43,7 @@
 | Bolivia (BO) | 102 | 57 | 159 |
 | Bosnia & Herzegovina (BA) | 159 | 38 | 197 |
 | Botswana (BW) | 57 | 21 | 78 |
-| Brazil (BR) | 4 926 | 8 945 | 13 871 |
+| Brazil (BR) | 4 926 | 8 946 | 13 872 |
 | British Indian Ocean Territory (IO) | 2 | 1 | 3 |
 | British Virgin Islands (VG) | 199 | 48 | 247 |
 | Brunei (BN) | 35 | 9 | 44 |
@@ -112,7 +112,7 @@
 | Hong Kong SAR China (HK) | 3 075 | 916 | 3 991 |
 | Hungary (HU) | 656 | 170 | 826 |
 | Iceland (IS) | 162 | 73 | 235 |
-| India (IN) | 7 193 | 2 848 | 10 041 |
+| India (IN) | 7 193 | 2 849 | 10 042 |
 | Indonesia (ID) | 4 754 | 2 750 | 7 504 |
 | Iran (IR) | 1 742 | 571 | 2 313 |
 | Iraq (IQ) | 283 | 118 | 401 |
@@ -253,4 +253,4 @@
 | Zambia (ZM) | 40 | 13 | 53 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **178 523** | **69 390** | **247 913** |
+| **Total** | **178 523** | **69 392** | **247 915** |
