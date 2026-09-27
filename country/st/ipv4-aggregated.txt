@@ -3,6 +3,7 @@
 # Delegation status: Allocated || Assigned
 # Export mode: Aggregated
 #
+102.201.20.0/22
 102.202.92.0/22
 102.206.44.0/22
 154.72.12.0/22
