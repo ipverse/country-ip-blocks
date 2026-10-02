@@ -6,9 +6,9 @@
 | APNIC | Asia Pacific | 80 | 58 238 | 17 217 | 75 455 |
 | ARIN | North America | 61 | 76 819 | 11 484 | 88 303 |
 | LACNIC | Latin America & Caribbean | 30 | 20 416 | 13 561 | 33 977 |
-| RIPE | Europe, Middle East & Central Asia | 127 | 102 071 | 26 845 | 128 916 |
+| RIPE | Europe, Middle East & Central Asia | 127 | 102 086 | 26 846 | 128 932 |
 | | | | | | |
-| **Total** | | **238** | **263 161** | **70 786** | **333 947** |
+| **Total** | | **238** | **263 176** | **70 787** | **333 963** |
 
 ## Prefixes by Country
 
@@ -28,14 +28,14 @@
 | Armenia (AM) | 197 | 55 | 252 |
 | Aruba (AW) | 12 | 3 | 15 |
 | Australia (AU) | 5 674 | 1 665 | 7 339 |
-| Austria (AT) | 1 904 | 598 | 2 502 |
-| Azerbaijan (AZ) | 186 | 75 | 261 |
+| Austria (AT) | 1 905 | 598 | 2 503 |
+| Azerbaijan (AZ) | 186 | 74 | 260 |
 | Bahamas (BS) | 26 | 6 | 32 |
 | Bahrain (BH) | 56 | 15 | 71 |
 | Bangladesh (BD) | 2 151 | 1 661 | 3 812 |
 | Barbados (BB) | 30 | 4 | 34 |
 | Belarus (BY) | 105 | 32 | 137 |
-| Belgium (BE) | 920 | 325 | 1 245 |
+| Belgium (BE) | 921 | 325 | 1 246 |
 | Belize (BZ) | 61 | 27 | 88 |
 | Benin (BJ) | 39 | 15 | 54 |
 | Bermuda (BM) | 47 | 11 | 58 |
@@ -47,7 +47,7 @@
 | British Indian Ocean Territory (IO) | 2 | 1 | 3 |
 | British Virgin Islands (VG) | 200 | 48 | 248 |
 | Brunei (BN) | 35 | 9 | 44 |
-| Bulgaria (BG) | 1 348 | 265 | 1 613 |
+| Bulgaria (BG) | 1 349 | 265 | 1 614 |
 | Burkina Faso (BF) | 51 | 28 | 79 |
 | Burundi (BI) | 13 | 6 | 19 |
 | Cambodia (KH) | 272 | 92 | 364 |
@@ -72,7 +72,7 @@
 | Curaçao (CW) | 45 | 21 | 66 |
 | Cyprus (CY) | 538 | 386 | 924 |
 | Czechia (CZ) | 1 570 | 675 | 2 245 |
-| Denmark (DK) | 1 290 | 411 | 1 701 |
+| Denmark (DK) | 1 294 | 411 | 1 705 |
 | Djibouti (DJ) | 8 | 3 | 11 |
 | Dominica (DM) | 13 | 6 | 19 |
 | Dominican Republic (DO) | 148 | 217 | 365 |
@@ -94,7 +94,7 @@
 | Gabon (GA) | 25 | 8 | 33 |
 | Gambia (GM) | 25 | 10 | 35 |
 | Georgia (GE) | 314 | 81 | 395 |
-| Germany (DE) | 8 740 | 3 090 | 11 830 |
+| Germany (DE) | 8 741 | 3 092 | 11 833 |
 | Ghana (GH) | 152 | 56 | 208 |
 | Gibraltar (GI) | 74 | 13 | 87 |
 | Greece (GR) | 445 | 109 | 554 |
@@ -103,7 +103,7 @@
 | Guadeloupe (GP) | 16 | 5 | 21 |
 | Guam (GU) | 27 | 11 | 38 |
 | Guatemala (GT) | 139 | 83 | 222 |
-| Guernsey (GG) | 59 | 9 | 68 |
+| Guernsey (GG) | 60 | 9 | 69 |
 | Guinea (GN) | 23 | 11 | 34 |
 | Guinea-Bissau (GW) | 4 | 2 | 6 |
 | Guyana (GY) | 14 | 9 | 23 |
@@ -136,7 +136,7 @@
 | Liberia (LR) | 20 | 7 | 27 |
 | Libya (LY) | 73 | 18 | 91 |
 | Liechtenstein (LI) | 62 | 29 | 91 |
-| Lithuania (LT) | 948 | 376 | 1 324 |
+| Lithuania (LT) | 949 | 375 | 1 324 |
 | Luxembourg (LU) | 540 | 108 | 648 |
 | Macao SAR China (MO) | 31 | 11 | 42 |
 | Madagascar (MG) | 27 | 8 | 35 |
@@ -163,7 +163,7 @@
 | Namibia (NA) | 39 | 9 | 48 |
 | Nauru (NR) | 7 | 2 | 9 |
 | Nepal (NP) | 270 | 166 | 436 |
-| Netherlands (NL) | 5 708 | 1 931 | 7 639 |
+| Netherlands (NL) | 5 709 | 1 931 | 7 640 |
 | New Caledonia (NC) | 42 | 13 | 55 |
 | New Zealand (NZ) | 1 274 | 423 | 1 697 |
 | Nicaragua (NI) | 49 | 24 | 73 |
@@ -187,18 +187,18 @@
 | Poland (PL) | 3 951 | 977 | 4 928 |
 | Portugal (PT) | 405 | 120 | 525 |
 | Puerto Rico (PR) | 284 | 73 | 357 |
-| Qatar (QA) | 48 | 21 | 69 |
+| Qatar (QA) | 49 | 21 | 70 |
 | Réunion (RE) | 24 | 6 | 30 |
 | Romania (RO) | 2 460 | 271 | 2 731 |
-| Russia (RU) | 8 652 | 2 174 | 10 826 |
+| Russia (RU) | 8 652 | 2 175 | 10 827 |
 | Rwanda (RW) | 33 | 21 | 54 |
 | Samoa (WS) | 16 | 8 | 24 |
 | San Marino (SM) | 24 | 14 | 38 |
 | São Tomé & Príncipe (ST) | 5 | 1 | 6 |
-| Saudi Arabia (SA) | 592 | 124 | 716 |
+| Saudi Arabia (SA) | 592 | 123 | 715 |
 | Senegal (SN) | 36 | 13 | 49 |
 | Serbia (RS) | 388 | 90 | 478 |
-| Seychelles (SC) | 800 | 727 | 1 527 |
+| Seychelles (SC) | 801 | 727 | 1 528 |
 | Sierra Leone (SL) | 30 | 9 | 39 |
 | Singapore (SG) | 1 745 | 477 | 2 222 |
 | Sint Maarten (SX) | 10 | 7 | 17 |
@@ -219,8 +219,8 @@
 | St. Vincent & Grenadines (VC) | 12 | 3 | 15 |
 | Sudan (SD) | 34 | 10 | 44 |
 | Suriname (SR) | 12 | 5 | 17 |
-| Sweden (SE) | 2 056 | 857 | 2 913 |
-| Switzerland (CH) | 2 681 | 872 | 3 553 |
+| Sweden (SE) | 2 057 | 857 | 2 914 |
+| Switzerland (CH) | 2 683 | 872 | 3 555 |
 | Syria (SY) | 191 | 34 | 225 |
 | Taiwan (TW) | 729 | 318 | 1 047 |
 | Tajikistan (TJ) | 60 | 24 | 84 |
@@ -238,9 +238,9 @@
 | Tuvalu (TV) | 1 | 2 | 3 |
 | U.S. Virgin Islands (VI) | 24 | 6 | 30 |
 | Uganda (UG) | 110 | 38 | 148 |
-| Ukraine (UA) | 2 660 | 620 | 3 280 |
+| Ukraine (UA) | 2 659 | 621 | 3 280 |
 | United Arab Emirates (AE) | 1 210 | 593 | 1 803 |
-| United Kingdom (GB) | 8 240 | 2 048 | 10 288 |
+| United Kingdom (GB) | 8 239 | 2 048 | 10 287 |
 | United States (US) | 29 677 | 10 665 | 40 342 |
 | Uruguay (UY) | 58 | 41 | 99 |
 | Uzbekistan (UZ) | 178 | 49 | 227 |
@@ -253,4 +253,4 @@
 | Zambia (ZM) | 40 | 13 | 53 |
 | Zimbabwe (ZW) | 41 | 20 | 61 |
 | | | | |
-| **Total** | **178 702** | **69 523** | **248 225** |
+| **Total** | **178 716** | **69 524** | **248 240** |
